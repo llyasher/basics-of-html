@@ -138,20 +138,5 @@ footer a {
         font-size: 28px;
     }
 
-    footer {
-        height: auto;
-    }
-
-    ul {
-        display: flex;
-        flex-wrap: wrap;
-        flex-grow: 1;
-        padding: 20px 0px;
-        align-content: center;
-    }
-
-    ul li {
-        padding: 10px;
-    }
 
 }
