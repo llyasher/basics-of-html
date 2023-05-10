@@ -138,3 +138,23 @@ footer a {
         font-size: 28px;
     }
 }
+
+@media screen and (max-width: 576px) {
+    .logo-img {
+        width: 160px
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .logo-img {
+        width: 160px
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}
